@@ -93,7 +93,7 @@ const int N = 1e5 + 7;
 
        cout<< ncr_lukas(n, r, 7) <<endl; 
 
-
+     
    
        ret;
    }
